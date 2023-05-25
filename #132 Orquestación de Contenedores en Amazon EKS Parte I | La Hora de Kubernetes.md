@@ -9,6 +9,7 @@ Parte IV: Proteger entorno de Amazon EKS
 
 ## Con nuestro orador: Jose Flores
 [LinkedIn](https://www.linkedin.com/in/josefloressv) 
+##
 [Comunidad](https://www.linkedin.com/company/cloudnativesv/)
 #
 [Youtube](https://www.youtube.com/watch?v=e5XS3kc67TI)
