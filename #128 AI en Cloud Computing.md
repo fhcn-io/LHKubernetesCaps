@@ -18,4 +18,4 @@ Linkedin: Fundación Hispana de Cloud Native
 
 Mira la presentación: [127 FHCN lHK.pdf](https://github.com/fhcn-io/la-hora-de-kubernetes-LHK/files/10582786/127.FHCN.lHK.pdf)
 
-![CAP 127 Miniatura Youtube - Facebook](https://user-images.githubusercontent.com/101415041/216710274-eaa8d80f-122f-4779-a95a-5123b541e8d7.png)
+![CAP Miniatura](https://user-images.githubusercontent.com/101415041/216710274-eaa8d80f-122f-4779-a95a-5123b541e8d7.png)
