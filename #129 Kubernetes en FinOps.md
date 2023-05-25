@@ -1,33 +1,14 @@
 # LHKubernetesCaps
-El potencial mercado con soluciones para las personas mayores de 60 años, crece año tras año, otro aspecto que debemos tener en cuenta es que la adopción de este sector de la población de internet va en aumento. 
+## #129 Cómo ahorrar miles de dolares en Kubernetes con FinOps | La Hora de Kubernetes
+La Fundación Ops dice que “En esencia, FinOps es una práctica cultural. Es la forma en que los equipos administran sus costos de la nube, donde todos se hacen cargo de su uso de la nube respaldado por un grupo central de mejores prácticas”. Esto también es válido para Kubernetes.
 
-Las necesidades de los ancianos han permanecido iguales a lo largo de la historia, sin embargo, la entrega de estos es lo que va a cambiar en el futuro.
+En este capítulo veremos con nuestro experto Martín, cómo se puede ahorrar miles de dólares con sólo estás aplicaciones Open Source tan innovadoras.
 
-Podemos identificar distintos tipos de necesidades que tiene este tipo de población, las cuales podemos dividir en los siguientes tipos:
-* Físicas
-* Intelectuales
-* Emocionales
-* Sociales
-
-## #131 IoT & Cloud Computing en la Salud | La Hora de Kubernetes
-Y hoy te venimos a explicar cómo puedes mejorar esta situación con IoT y Cloud Computing
-
-Los temas que veremos son:
-* ¿Qué es el IoT o internet de las cosas?
-* ¿Para qué se puede usar el internet de las cosas?
-* Por qué se necesita IoT para el cuidado de personas mayores
-* Ventajas
-* Desventajas
-* IoT en la industria de la salud
-* Cloud Computing en Healthcare
-* Casos de Uso en empresas
-* Los mejores productos para las personas mayores
-
-Mira más en: https://www.youtube.com/watch?v=hPWqgQaLCTM | [Speaker Martín Quintero](https://www.linkedin.com/in/martineliasq/) |[Speaker Leonardo A. Pachón](https://www.linkedin.com/in/lapachonc/)
+Mira más en: https://www.youtube.com/watch?v=hPWqgQaLCTM | [Speaker Martín Quintero](https://www.linkedin.com/in/martineliasq/) 
 
 ### Suscríbete para más información y no olvides seguirnos en:
 Twitter: [@fh_cloudnative](https://twitter.com/fhcloudnative )
 Linkedin: [Fundación Hispana de Cloud Native](https://www.linkedin.com/company/fundaci%C3%B3n-hispana-de-cloud-native/ )
 TikTok: [@fhcloudnative](https://www.tiktok.com/@fhcloudnative )
 
-![CAP Miniatura](https://github.com/fhcn-io/LHKubernetesCaps/assets/101415041/52bac1ad-ed26-4512-b3ee-2a3019b5dc61)
+![CAP 129 Miniatura Youtube - Facebook - Meetup](https://github.com/fhcn-io/LHKubernetesCaps/assets/101415041/0bb259d4-cdd5-4cb9-9b06-98d6646ccca0)
